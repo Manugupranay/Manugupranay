@@ -5,10 +5,10 @@
 
 <!-- SECTION A: ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=[YOUR+ROLE];Content+Creator+%7C+Developer;Building+awesome+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=[YOUR+ROLE];Senior+AI+Engineer+%7C+Developer;Building+awesome+things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hey there! I'm [YOUR NAME] 👋</h1>
+<h1 align="center">Hey there! I'm [Pranay Manugu] 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -19,13 +19,12 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate **[YOUR ROLE]** with **[X] years of experience** crafting scalable, impactful solutions. I love turning complex problems into elegant code — and sharing everything I learn along the way.
+I'm a passionate **[AI/MLEngineer]** with **[7] years of experience** crafting scalable, impactful solutions. I love turning complex problems into elegant code — and sharing everything I learn along the way.
 
-📺 I create content on **YouTube**, **Medium**, and **Instagram** to help developers level up their skills.
 
-- 🔭 I'm currently working on **cutting-edge projects** that push the limits of technology
+- 🔭 I'm currently working on **Bulding-Business-AI-Applications** that push the limits of technology
 - 🌱 I'm always learning something new — because the best code is written tomorrow
-- 💡 I believe in **clean code, strong coffee, and continuous learning**
+- 💡 I believe in **clean code, Bike Riding , and continuous learning**
 - ⚡ Fun fact: I debug in my sleep (literally)
 
 ---
@@ -61,17 +60,7 @@ I'm a passionate **[YOUR ROLE]** with **[X] years of experience** crafting scala
 
 ## 🌐 Connect & Follow
 
-<p align="center">
-  <a href="[YOUR YOUTUBE URL]">
-    <img src="https://img.shields.io/badge/YouTube-[X]%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="[YOUR MEDIUM URL]">
-    <img src="https://img.shields.io/badge/Medium-[X]%20Followers-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="[YOUR INSTAGRAM URL]">
-    <img src="https://img.shields.io/badge/Instagram-[X]%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="[YOUR LINKEDIN URL]">
+  <a href="[https://www.linkedin.com/in/pranaybhaskar4870]">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="[YOUR WEBSITE URL]">
