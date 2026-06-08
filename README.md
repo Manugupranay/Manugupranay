@@ -5,13 +5,13 @@
 <h1 align="center">Pranay Manugu</h1>
 
 <p align="center">
-  <b>Senior AI Engineer &nbsp;|&nbsp; LangGraph &bull; RAG &bull; Multi-Agent Systems &bull; Claude API &bull; MCP</b>b><br/>
+  <b>Senior AI Engineer &nbsp;|&nbsp; LangGraph &bull; RAG &bull; Multi-Agent Systems &bull; Claude API &bull; MCP</b><br/>
     Chicago, IL &nbsp;&bull;&nbsp; 7 Years Building Production AI
 </p>
 
 <p align="center">
-  <a href="mailto:manugupranay@gmail.com"><img src="https://img.shields.io/badge/Email-manugupranay%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>a>
-    <a href="https://github.com/Manugupranay"><img src="https://img.shields.io/badge/GitHub-Manugupranay-181717?style=for-the-badge&logo=github&logoColor=white"/></a>a>
+  <a href="mailto:manugupranay@gmail.com"><img src="https://img.shields.io/badge/Email-manugupranay%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/Manugupranay"><img src="https://img.shields.io/badge/GitHub-Manugupranay-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       <img src="https://komarev.com/ghpvc/?username=Manugupranay&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
