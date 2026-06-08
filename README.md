@@ -26,12 +26,10 @@ I'm a **Senior AI Engineer** based in **Chicago, IL** with **7 years of experien
   - All my projects are **live and deployed** - not just GitHub repos
     - Passionate about **Healthcare AI** and making clinical decision support transparent and trustworthy
 
-      - ---
-      -
       - ## Live AI Projects
-      -
+  
       - | Project | Description | Stack | Live |
-      - |---------|-------------|-------|------|
+    
       - | [MedAssist AI](https://github.com/Manugupranay/medassist) | Clinical decision support with LangGraph multi-agent + RAG | Python, LangGraph, MCP, RAG | Live |
       - | [EnterpriseIQ](https://github.com/Manugupranay/enterpriseiq) | AI finance & sales intelligence agent | Python, RAG, LLM, MCP | Live |
       - | [ClaudeReview](https://github.com/Manugupranay/claudereview-backend) | AI-powered code review service | Java, Spring Boot, Claude API | Live |
