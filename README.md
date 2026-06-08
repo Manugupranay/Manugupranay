@@ -36,9 +36,7 @@ I'm a **Senior AI Engineer** based in **Chicago, IL** with **7 years of experien
       - | [HireIQ](https://github.com/Manugupranay/hireiq) | AI hiring platform - resume screening & scoring | Python, LLM | Live |
       - | [AeroFind](https://github.com/Manugupranay/aerofind) | Agentic flight search assistant | HTML, Python | Live |
       - | [WhatsApp Resume Bot](https://github.com/Manugupranay/whatsapp-resume-bot) | Resume Q&A over WhatsApp using LLM | Python | Live |
-      -
-      - ---
-      -
+
       - ## Tech Stack
 
       <p align="center">
