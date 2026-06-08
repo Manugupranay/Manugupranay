@@ -19,34 +19,34 @@
 
 ## About Me
 
-I'm a **Senior AI Engineer** based in **Chicago, IL** with **7 years of experience** building production-grade LLM systems, agentic workflows, and RAG pipelines. I specialize in turning complex clinical, financial, and enterprise problems into real deployed AI applications — not just demos.
+I'm a **Senior AI Engineer** based in **Chicago, IL** with **7 years of experience** building production-grade LLM systems, agentic workflows, and RAG pipelines. I specialize in turning complex clinical, financial, and enterprise problems into real deployed AI applications - not just demos.
 
-- Building **MedAssist AI** — a clinical decision support system with LangGraph multi-agent architecture, self-correcting critic nodes, and full audit trails
-- - Deep in **LangGraph multi-agent systems**, MCP integrations, and responsible AI
-  - - All my projects are **live and deployed** — not just GitHub repos
-    - - Passionate about **Healthcare AI** and making clinical decision support transparent and trustworthy
-      -
+- Building **MedAssist AI** - a clinical decision support system with LangGraph multi-agent architecture, self-correcting critic nodes, and full audit trails
+- Deep in **LangGraph multi-agent systems**, MCP integrations, and responsible AI
+  - All my projects are **live and deployed** - not just GitHub repos
+    - Passionate about **Healthcare AI** and making clinical decision support transparent and trustworthy
+
       - ---
       -
       - ## Live AI Projects
       -
       - | Project | Description | Stack | Live |
-      - |---|---|---|---|
-      - | [MedAssist AI](https://github.com/Manugupranay/medassist) | Clinical decision support — RAG + Multi-Agent + ML | Python, LangGraph, RAG, Claude | ✅ Live |
-      - | [EnterpriseIQ](https://github.com/Manugupranay/enterpriseiq) | AI Finance & Sales Intelligence Agent | Python, RAG, LLM, ML, MCP | ✅ Live |
-      - | [ClaudeReview](https://github.com/Manugupranay/claudereview-backend) | AI-powered code review service | Java, Spring Boot, Claude API | ✅ Live |
-      - | [HireIQ](https://github.com/Manugupranay/hireiq) | AI hiring intelligence platform | HTML, Python | ✅ Live |
-      - | [AeroFind](https://github.com/Manugupranay/aerofind) | Agentic flight search assistant | HTML, Python | ✅ Live |
-      - | [WhatsApp Resume Bot](https://github.com/Manugupranay/whatsapp-resume-bot) | Resume Q&A over WhatsApp using LLM | Python | ✅ Live |
+      - |---------|-------------|-------|------|
+      - | [MedAssist AI](https://github.com/Manugupranay/medassist) | Clinical decision support with LangGraph multi-agent + RAG | Python, LangGraph, MCP, RAG | Live |
+      - | [EnterpriseIQ](https://github.com/Manugupranay/enterpriseiq) | AI finance & sales intelligence agent | Python, RAG, LLM, MCP | Live |
+      - | [ClaudeReview](https://github.com/Manugupranay/claudereview-backend) | AI-powered code review service | Java, Spring Boot, Claude API | Live |
+      - | [HireIQ](https://github.com/Manugupranay/hireiq) | AI hiring platform - resume screening & scoring | Python, LLM | Live |
+      - | [AeroFind](https://github.com/Manugupranay/aerofind) | Agentic flight search assistant | HTML, Python | Live |
+      - | [WhatsApp Resume Bot](https://github.com/Manugupranay/whatsapp-resume-bot) | Resume Q&A over WhatsApp using LLM | Python | Live |
       -
       - ---
       -
       - ## Tech Stack
-      -
-      <p>
+
+      <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
               <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
                 <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
                   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -76,10 +76,10 @@ I'm a **Senior AI Engineer** based in **Chicago, IL** with **7 years of experien
 
       ## What I'm Working On
 
-      - Expanding **MedAssist AI** with drug interaction critic nodes and vitals trend ML scoring- Exploring **responsible AI** frameworks for healthcare audit   - - Adding JWT auth and review history to **ClaudeReview**
-        
-            -
-                      -
-            - <p align="center">
-              <i>"Ship real things. All my projects are live, not just repos."</i>i>
-            </p>
+      - Expanding **MedAssist AI** with drug interaction critic nodes and vitals trend ML scoring
+      - Exploring **responsible AI** frameworks for healthcare audit
+        - Adding JWT auth and review history to **ClaudeReview**
+
+          <p align="center">
+              <i>"Ship real things. All my projects are live, not just repos."</i>
+          </p>
