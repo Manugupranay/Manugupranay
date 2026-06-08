@@ -1,19 +1,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=6AD3F7&center=true&vCenter=true&width=750&lines=Senior+AI+Engineer+%7C+7+Years+Experience;LangGraph+%7C+RAG+%7C+Multi-Agent+Systems;Claude+API+%7C+MCP+%7C+Production+AI;Chicago%2C+IL+%F0%9F%8C%86" alt="Typing SVG" />
-</p>p>
+</p>
 
-<h1 align="center">Pranay Manugu</h1>h1>
+<h1 align="center">Pranay Manugu</h1>
 
 <p align="center">
   <b>Senior AI Engineer &nbsp;|&nbsp; LangGraph &bull; RAG &bull; Multi-Agent Systems &bull; Claude API &bull; MCP</b>b><br/>
     Chicago, IL &nbsp;&bull;&nbsp; 7 Years Building Production AI
-</p>p>
+</p>
 
 <p align="center">
   <a href="mailto:manugupranay@gmail.com"><img src="https://img.shields.io/badge/Email-manugupranay%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>a>
     <a href="https://github.com/Manugupranay"><img src="https://img.shields.io/badge/GitHub-Manugupranay-181717?style=for-the-badge&logo=github&logoColor=white"/></a>a>
       <img src="https://komarev.com/ghpvc/?username=Manugupranay&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>p>
+</p>
 
 ---
 
@@ -43,7 +43,7 @@ I'm a **Senior AI Engineer** based in **Chicago, IL** with **7 years of experien
       -
       - ## Tech Stack
       -
-      - <p>
+      <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
             <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
@@ -57,7 +57,7 @@ I'm a **Senior AI Engineer** based in **Chicago, IL** with **7 years of experien
                             <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
                               <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
                                 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      </p>p>
+      </p>
       
       ---
 
@@ -66,23 +66,20 @@ I'm a **Senior AI Engineer** based in **Chicago, IL** with **7 years of experien
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Manugupranay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manugupranay&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-      </p>p>
+      </p>
       
       <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manugupranay&theme=tokyonight&hide_border=true" />
-      </p>p>
+      </p>
       
       ---
 
       ## What I'm Working On
 
-      - Expanding **MedAssist AI** with drug interaction critic nodes and vitals trend ML scoring
-      - - Adding JWT auth and review history to **ClaudeReview**
-        - - Exploring **responsible AI** frameworks for healthcare audit trails
-          - - Open to senior AI engineer / ML engineer roles — reach out anytime
+      - Expanding **MedAssist AI** with drug interaction critic nodes and vitals trend ML scoring- Exploring **responsible AI** frameworks for healthcare audit   - - Adding JWT auth and review history to **ClaudeReview**
+        
             -
-            - ---
-            -
+                      -
             - <p align="center">
               <i>"Ship real things. All my projects are live, not just repos."</i>i>
-            </p>p></i></b>
+            </p>
